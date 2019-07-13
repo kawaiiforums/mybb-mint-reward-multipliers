@@ -1,0 +1,1 @@
+# mybb-mint-reward-multipliers
